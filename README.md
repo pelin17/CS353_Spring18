@@ -25,5 +25,6 @@ The project is a Scientific Paper Management System
 
 ### Documents
 <ol>
+<li> <a href="https://github.com/hlarik/CS353_Spring18/blob/master/Docs/Project%20Proposal.pdf"> Project Proposal Report </a> </li>
 </ol>
 
