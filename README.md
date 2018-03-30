@@ -6,7 +6,7 @@ Database Systems Spring 2018. <hr />
 ### Members:
 <ul>
 <li>Kaan Akturk</li>
-<li>Pelin ELbin Gunay</li>
+<li>Pelin Elbin Gunay</li>
 <li>Hareem Larik</li>
 <li>Emine Ayse Sunar</li>
 </ul>
